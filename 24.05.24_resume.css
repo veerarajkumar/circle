@@ -1,0 +1,20 @@
+body{
+    background-image: url(background\ blue.jpg);
+    background-repeat: repeat;
+    }
+    .dot {
+        height: 20px;
+        width: 20px;
+        background-color: #bbb;
+        background-repeat: repeat;
+        border-radius: 100%;
+        margin-left: 200px;
+        display: inline-flex;
+      }
+h3{
+    margin-top: 50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(15, 14, 14);
+    text-align: left;
+
+}
